@@ -12,3 +12,17 @@ Kamis, 20 September 2018
 ## Referensi
 * [GL-Matrix](http://glmatrix.net/docs/)
 * [Pelajaran Dasar WebGL](http://learningwebgl.com/blog/?page_id=1217)
+
+# Scoring
+
+## Statistics
+| WORKING TIMELINE | Total Commit |
+| :--------------- | :----------: |
+| 18 - 18          | 2            |
+
+## Scores
+| ASPECT             | Score |
+| :----------------- | :---: |
+| Work Results (80%) | 89    |
+| Repository (20%)   | 85    |
+| **OVERALL**        | 88.20 |
